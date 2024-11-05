@@ -1,50 +1,20 @@
 # The Little Taco Shop
 
-Welcome to **The Little Taco Shop** – a simple website for a fictional taco shop showcasing our love for tacos! 🌮 This project was built to demonstrate a multi-page HTML website with navigation, and it includes pages for information about the shop, our menu, contact details, and store hours.
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [File Structure](#file-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+Welcome to **The Little Taco Shop** – a simple, multi-page website for a fictional taco restaurant. This project demonstrates fundamental web development skills, focusing on HTML and CSS to create an engaging and informative restaurant site.
 
 ## Project Overview
-
-This project includes:
-- **index.html** - The homepage with information about the shop and menu.
-- **contact.html** - A contact form and contact details for The Little Taco Shop.
-- **hours.html** - Information on store hours.
-
-The Little Taco Shop website was designed with HTML, CSS, and a simple, easy-to-navigate layout.
-
-## Features
-
-- **Responsive Navigation**: Links to different sections within the homepage and across pages.
-- **About Section**: Information about the shop's background and a fun taco trivia section.
-- **Menu Table**: A detailed menu listing for different types of tacos and prices.
-- **Contact Form**: A form for customers to reach out with their contact information and message.
-- **Store Hours**: Clear, easy-to-read store hours information.
+**The Little Taco Shop** is designed to give customers essential information about the shop, including its menu, contact details, and store hours. The website includes smooth navigation between different sections and pages, a responsive design, and user-friendly layout.
 
 ## Technologies Used
+- **HTML5**: Used for structuring the website content and layout.
+- **CSS3**: Applied to style the website with a clean, professional look.
+- **JavaScript** (optional): For added interactivity if needed.
 
-- **HTML5**: For creating the structure and layout of each page.
-- **CSS**: For styling the website.
-- **JavaScript** (optional for enhancements): To add interactivity if desired.
-  
-## Getting Started
+## Features
+- **Home Page**: Features a welcome message and basic information about the taco shop.
+- **Navigation**: Easy-to-use navigation with links to different pages and sections.
+- **About Section**: Contains background information about the shop along with a taco trivia feature.
+- **Menu Page**: Includes a table listing available tacos with pricing details.
+- **Contact Page**: Provides a contact form and contact information for the shop.
+- **Store Hours Page**: Lists the taco shop’s hours for customer convenience.
 
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-Ensure you have a code editor (e.g., VS Code) and Git installed.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/the-little-taco-shop.git
